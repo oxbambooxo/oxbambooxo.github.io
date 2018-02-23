@@ -25,6 +25,8 @@ author:
 github:
   repo:              https://github.com/oxbambooxo
 
+remote_theme:        mmistakes/minimal-mistakes
+
 # Gems
 gems:
   - jekyll-paginate
