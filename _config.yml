@@ -25,11 +25,10 @@ author:
 github:
   repo:              https://github.com/oxbambooxo
 
-remote_theme:        mmistakes/minimal-mistakes
-
 # Gems
 gems:
   - jekyll-paginate
   - jekyll-gist
 
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+remote_theme: mmistakes/minimal-mistakes
