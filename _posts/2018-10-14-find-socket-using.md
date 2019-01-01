@@ -5,7 +5,7 @@ date:   2018-10-14 13:54:00 +0800
 categories: shell
 ---
 
-以 80 端口为例, 使用 netstat -e 查询出使用某连接的 inode 号
+以 80 端口为例, 除了惯用的 netstat -ntlp 之外，还可以使用 netstat -e 查询出使用某连接的 inode 号
 
 ```
 netstat -ntp -e |grep 80
